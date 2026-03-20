@@ -65,15 +65,15 @@ SmartShield focuses on one goal: making sure gig workers have a basic financial 
 
 
 
-## Adversarial Defense & Anti-Spoofing Strategy
+# Adversarial Defense & Anti-Spoofing Strategy
 
 SmartShield protects against GPS spoofing and coordinated fraud using AI-driven, multi-layered checks beyond just location data.
 
-Differentiation
+## Differentiation
 
 Cross-checks movement, device integrity, and environment. Real workers show natural behavior; spoofers don’t.
 
-Data Used
+## Data Used
 
 Motion sensors (accelerometer, gyroscope)
 
@@ -83,7 +83,7 @@ Network signals & history
 
 Weather APIs and optional OTPs
 
-Fraud & Attack Detection
+## Fraud & Attack Detection
 
 Rule-based filters for impossible activity
 
@@ -91,7 +91,7 @@ ML models and anomaly detection
 
 Coordinated attack monitoring (group patterns)
 
-Workflow
+## Workflow
 
 Collect signals
 
@@ -103,7 +103,7 @@ Scan for groups
 
 Decide auto/manual review
 
-UX Balance
+## UX Balance
 
 Flag suspicious claims instead of rejecting immediately
 
@@ -111,6 +111,6 @@ Tolerate minor GPS or network inconsistencies
 
 High-risk cases reviewed manually
 
-Summary
+## Summary
 
 SmartShield reduces fraud while keeping the system fair and seamless for genuine users.
