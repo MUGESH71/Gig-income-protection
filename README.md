@@ -65,7 +65,7 @@ SmartShield focuses on one goal: making sure gig workers have a basic financial 
 
 
 
-##Adversarial Defense & Anti-Spoofing Strategy
+## Adversarial Defense & Anti-Spoofing Strategy
 
 SmartShield protects against GPS spoofing and coordinated fraud using AI-driven, multi-layered checks beyond just location data.
 
