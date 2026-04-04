@@ -1,0 +1,68 @@
+[
+  {
+    "claim_id": "CLM001",
+    "user_id": "USR002",
+    "policy_id": "POL002",
+    "trigger": "Heavy Rainfall",
+    "risk_score_at_trigger": 82,
+    "disruption_hours": 6,
+    "estimated_loss": 812,
+    "payout_amount": 650,
+    "fraud_score": 0.08,
+    "status": "approved",
+    "auto_triggered": true,
+    "timestamp": "2024-05-28T08:30:00",
+    "message": "₹650 credited due to high-risk conditions (Heavy Rainfall) in your area"
+  },
+  {
+    "claim_id": "CLM002",
+    "user_id": "USR001",
+    "policy_id": "POL001",
+    "trigger": "Flood Alert",
+    "risk_score_at_trigger": 91,
+    "disruption_hours": 9,
+    "estimated_loss": 945,
+    "payout_amount": 600,
+    "fraud_score": 0.12,
+    "status": "approved",
+    "auto_triggered": true,
+    "timestamp": "2024-05-30T07:15:00",
+    "message": "₹600 credited due to high-risk conditions (Flood Alert) in your area"
+  },
+  {
+    "claim_id": "CLM003",
+    "user_id": "USR004",
+    "policy_id": "POL004",
+    "trigger": "High AQI",
+    "risk_score_at_trigger": 78,
+    "disruption_hours": 4,
+    "estimated_loss": 422,
+    "payout_amount": 380,
+    "fraud_score": 0.21,
+    "status": "approved",
+    "auto_triggered": true,
+    "timestamp": "2024-06-01T09:00:00",
+    "message": "₹380 credited due to high-risk conditions (High AQI) in your area"
+  },
+  {
+    "claim_id": "CLM004",
+    "user_id": "USR002",
+    "policy_id": "POL002",
+    "trigger": "Heavy Rainfall",
+    "active_triggers": [
+      "Heavy Rainfall",
+      "Traffic Disruption",
+      "Flood Alert"
+    ],
+    "risk_score_at_trigger": 80.0,
+    "disruption_hours": 9.0,
+    "estimated_loss": 990.23,
+    "payout_amount": 990.23,
+    "fraud_score": 0.06,
+    "fraud_verdict": "clean",
+    "status": "approved",
+    "auto_triggered": true,
+    "timestamp": "2026-04-04T14:04:10.922203",
+    "message": "₹990 credited due to high-risk conditions (Heavy Rainfall) in your area"
+  }
+]
