@@ -210,7 +210,7 @@ def credit_banner(msg: str):
 with st.sidebar:
     st.markdown("""
     <div style="padding:1rem 0 1.5rem;">
-      <span style="font-family:'Syne',sans-serif;font-size:1.6rem;font-weight:800;color:#f0b429;">🛡️ GigShield</span><br>
+      <span style="font-family:'Syne',sans-serif;font-size:1.6rem;font-weight:800;color:#f0b429;">🛡️ GEI</span><br>
       <span style="font-size:0.78rem;color:#8b949e;">Parametric Insurance for Gig Workers</span>
     </div>
     """, unsafe_allow_html=True)
